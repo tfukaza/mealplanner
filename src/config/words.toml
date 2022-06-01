@@ -1,0 +1,347 @@
+[ingredients]
+dairy = [
+  "egg",
+  "milk",
+  "sour cream",
+  "heavy cream",
+  "butter",
+  "half and half",
+  "egg white",
+  "milk ricotta",
+  "plain yogurt",
+  "greek yogurt",
+  "salted butter",
+]
+dry_spice = [
+  "steak seasoning",
+  "turmeric",
+  "cinnamon",
+  "dried basil",
+  "dried cilantro",
+  "dried oregano",
+  "dried thyme",
+  "dried rosemary",
+  "dried sage",
+  "dry basil",
+  "dry cilantro",
+  "dry oregano",
+  "dry thyme",
+  "dry rosemary",
+  "dry sage",
+  "dry dill",
+  "italian seasoning",
+  "onion powder",
+  "garlic powder",
+  "ground cumin",
+  "paprika",
+  "red pepper flake",
+  "dried parsley",
+  "curry powder",
+  "cayenne pepper",
+  "chili powder",
+  "ground cloves",
+  "cayenne powder",
+]
+meat = [
+  "chicken",
+  "chicken breast",
+  "chicken thigh",
+  "chicken wing",
+  "pork",
+  "ground pork",
+  "pork chop",
+  "beef",
+  "ground beef",
+  "lean ground beef",
+  "shredded beef",
+  "turkey",
+  "ground turkey",
+  "bacon",
+]
+sausage = [
+  "chicken sausage",
+  "italian sausage",
+  "pork sausage",
+  "sausage",
+  "salami",
+  "pepperoni",
+  "turkey italian sausage",
+]
+
+bread = [
+  "bun",
+  "hamburger bun",
+]
+
+seafood = [
+  "shrimp",
+  "tuna",
+  "anchovy",
+  "salmon",
+  "imitation crab",
+  "crab sticks",
+]
+
+pasta = [
+  "fettuccine",
+  "pasta",
+  "penne",
+  "rotini pasta",
+  "spaghetti",
+  "ziti",
+  "pasta shell",
+  "rigatoni",
+  "gnocchi",
+  "lasagna noodle",
+  "bowtie pasta",
+  "elbow macaroni",
+]
+powder = [
+  "baking powder",
+  "flour",
+  "cornstarch",
+  "breadcrumb",
+  "yeast",
+  "cornmeal",
+  "coconut flake",
+  "sugar",
+  "corn starch",
+  "flour",
+  "yeast",
+]
+seasoning = [
+  "salt",
+  "pepper",
+  "sugar",
+  "brown sugar",
+  "pepper",
+  "black pepper",
+]
+wrapper=["corn tortilla"]
+alchohol = ["white wine", "red wine"]
+bean = ["cannellini bean", "kidney bean", "chickpea", "green bean", "great northern beans", "pea", "sugar snap pea", "tofu", "peanut", "black bean", "great northern bean"]
+broth = [
+  "beef broth",
+  "vegetable broth",
+  "chicken broth",
+  "chicken bouillon",
+  "gochujang",
+]
+cheese = [
+  "cream cheese",
+  "parmesan",
+  "mozzarella",
+  "shredded mozzarella",
+  "shredded gouda mozzarella",
+  "provolone",
+  "ricotta",
+  "italian cheese blend",
+  "ricotta",
+  "cheese tortellini",
+  "feta",
+  "feta cheese",
+  "feta crumble",
+  "cheddar",
+  "sharp cheddar",
+  "shredded sharp cheddar",
+  "provolone cheese",
+  "shredded cheese",
+  "shredded cheddar",
+  "shred cheddar",
+  "shred cheddar cheese",
+  "cheddar shred",
+  "cheddar cheese",
+  "crumbled feta"
+]
+condiment = [
+  "mayonnaise",
+  "mustard",
+  "dijon mustard",
+  "ketchup",
+  "honey",
+  "balsamic vinegar",
+  "rice vinegar",
+  "vinegar",
+  "red wine vinegar",
+  "apple cider vinegar",
+  "lemon juice",
+  "peanut butter",
+]
+etc = ["water", "oil", "EXCLUDE", "extra virgin olive oil", "oregano", "water"]
+fruit = ["lime", "lemon", "apple", "mango", "pineapple", "pineapple chunks in juice"]
+garnish = ["olive", "garlic", "caper", "bay leaf", "ginger", "cilantro", "kalamata olive", "black olive"]
+grain = ["rice", "sesame seed", "long grain rice", "jasmine rice", "brown rice"]
+mix = ["coleslaw", "spring mix", "salsa", "diced tomatoes with green chiles"]
+mushroom = ["mushroom", "button mushroom", "baby bella mushroom"]
+noodle = ["ramen", "rice noodle", "ramen noodle", "egg noddle", "wide egg noodles"]
+oil = ["vegetable oil", "sesame oil", "olive oil", "oil", "salad oil", "coconut oil"]
+toping = [
+  "cocnut flakes",
+]
+
+herb = [
+  "basil",
+  "thyme",
+]
+juice = [
+  "coconut milk",
+  "lime juice",
+]
+sauce = [
+  "soy sauce",
+  "tomato sauce",
+  "hot sauce",
+  "tomato paste",
+  "basil pesto",
+  "pasta sauce",
+  "marinara",
+  "worcestershire sauce",
+  "sriracha sauce",
+  "sriracha hot sauce",
+  "marinara sauce",
+  "sriracha",
+  "sweet chili sauce",
+  "chili garlic sauce",
+  "tahini",
+  "oyster sauce",
+  "hoisin sauce",
+  "thai red curry paste",
+  "teriyaki sauce",
+  "guacamole",
+  "bbq sauce",
+  "fish sauce",
+]
+spice = ["red pepper", "jalapeño", "green chili", "cayenne", "diced green chiles"]
+vegetable = [
+  "baby spinach",
+  "corn kernel",
+  "fire roasted diced tomatoes",
+  "butternut squash",
+  "potato",
+  "russet potato",
+  "celery",
+  "yellow squash",
+  "mixed vegetable",
+  "yellow onion",
+  "parsley",
+  "tomato",
+  "salad green",
+  "artichoke",
+  "grape tomato",
+  "banana pepper",
+  "red onion",
+  "carrot",
+  "zucchini",
+  "spinach",
+  "green bell pepper",
+  "red potato",
+  "kale",
+  "eggplant",
+  "green",
+  "bell pepper",
+  "red bell pepper",
+  "green onion",
+  "broccoli",
+  "vegetable mix",
+  "cucumber",
+  "purple cabbage",
+  "banana pepper ring",
+  "spinach",
+  "bok choy",
+  "avocado",
+  "sweet corn",  
+  "frozen corn kernel",
+  "yellow bell pepper",
+  "petite tomato",
+  "corn",
+  "pearl onion",
+  "grape cherry tomato",
+  "roma tomato",
+  "cauliflower",
+  "shredded cabbage",
+  "sun dried tomatoes",
+  "frozen stir fry vegetables",
+]
+
+[categorizer]
+"sharp cheddar shred" = ["sharp cheddar"]
+"about 3/4 cup water" = ["water"]
+"all - purpose flour" = ["flour"]
+"all purpose flour" = ["flour"]
+"anchovy filet" = ["anchovy"]
+"artichoke heart" = ["artichoke"]
+"as needed non stick spray" = ["EXCLUDE"]
+"baby bella mushrooms" = ["baby bella mushroom"]
+"banana pepper rings" = ["banana pepper"]
+"banana pepper slice" = ["banana pepper"]
+"bay leaves" = ["bay leaf"]
+"bell peppers" = ["bell pepper"]
+"black olives" = ["olive"]
+"black pepper" = ["pepper"]
+"boneless - skinless chicken breast or thigh" = ["chicken breast", "chicken thigh", "or"]
+"boneless skinless chicken breast" = ["chicken breast"]
+"boneless skinless chicken breasts" = ["chicken breast"]
+"boneless skinless chicken breasts thighs" = ["chicken breast"]
+"bread machine yeast" = ["yeast"]
+"broccoli floret" = ["broccoli"]
+"button mushroom" = ["button mushroom"]
+"chicken wing drummett" = ["chicken wing"]
+"clove garlic" = ["garlic"]
+"cloves garlic" = ["garlic"]
+"coleslaw mix" = ["coleslaw"]
+"cooking oil" = ["oil"]
+"cooled rice" = ["rice"]
+"cumin" = ["ground cumin"]
+"dry fettuccine" = ["fettuccine"]
+"extra firm tofu" = ["tofu"]
+"fettuccini" = ["fettuccine"]
+"freshly cracked black pepper" = ["black pepper"]
+"full fat coconut milk" = ["coconut milk"]
+"granulated sugar" = ["sugar"]
+"grape tomatoes" = ["grape tomato"]
+"green beans" = ["green bean"]
+"green onions" = ["green onion"]
+greens = ["green"]
+"half half" = ["half and half"]
+"homemade marinara" = ["marinara sauce"]
+"instant bread machine yeast" = ["yeast"]
+"instant or bread machine yeast" = ["yeast"]
+"italian sausage hot mild" = ["italian sausage"]
+"italian seasoning blend" = ["italian seasoning"]
+"jumbo pasta shells" = ["pasta shell"]
+"kalamata olives" = ["olive"]
+"kidney beans" = ["kidney bean"]
+"lasagna noodles" = ["lasagna noodle"]
+"long grain jasmine rice" = ["jasmine rice"]
+"long grain white rice" = ["long grain rice"]
+"milk ricotta" = ["ricotta"]
+"mixed vegetables" = ["mixed vegetable"]
+mushrooms = ["mushroom"]
+"natural style peanut butter" = ["peanut butter"]
+"neutral oil" = ["oil"]
+"neutral salad oil" = ["salad oil"]
+"non stick spray as needed" = ["EXCLUDE"]
+"onion" = ["yellow onion"]
+"panko breadcrumbs" = ["breadcrumb"]
+"parmesan cheese" = ["parmesan"]
+"parsley flakes" = ["dried parsley"]
+peanuts = ["peanut"]
+peas = ["pea"]
+"peeled & deveined shrimp , 41/50 size" = ["shrimp"]
+"penne pasta" = ["penne"]
+"quartered artichoke heart" = ["artichoke"]
+"ramen noodles" = ["ramen noodle"]
+"red pepper flakes" = ["red pepper flake"]
+"red potatoes" = ["red potato"]
+"rice noodles" = ["rice noodle"]
+"ricotta cheese" = ["ricotta"]
+"salad greens of choice" = ["salad green"]
+"salt pepper" = ["salt"]
+"sesame seeds" = ["sesame seed"]
+"smoked paprika" = ["paprika"]
+"sugar snap peas" = ["sugar snap pea"]
+"sweetened flaked coconut" = ["coconut flake"]
+"tuna in water" = ["tuna"]
+vegetables = ["vegetable mix"]
+"warm water" = ["water"]
+"hot water" = ["water"]

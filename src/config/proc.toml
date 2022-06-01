@@ -1,0 +1,68 @@
+[block_word]
+adj = [
+  "fresh",
+  "plain",
+  "light",
+  "cold",
+  "all-purpose",
+  "thawed",
+  "homemade",
+  "instant",
+  "warm",
+  "cold",
+  "mild",
+  "sweet",
+  "boneless",
+  "skinless",
+  "wide",
+  "thin",
+  "thick",
+  "water",
+  "loosely",
+]
+adv = ["finely", "freshly"]
+etc = ["approx", "optional", "size"]
+grammar = ["ea", "about", "choice"]
+noun = ["splash", "dash"]
+proc = [
+  "thawed",
+  "split",
+  "drained",
+  "rinsed",
+  "diced",
+  "frozen",
+  "divided",
+  "deveined",
+  "powdered",
+  "crushed",
+  "chopped",
+  "sliced",
+  "cracked",
+  "smoked",
+  "melted",
+  "peeled",
+  "minced",
+  "uncooked",
+  "cooked",
+  "grated",
+  "toasted",
+  "smoked",
+  "shaved",
+  "cranks",
+  "packed",
+  "quartered",
+  "cut",
+  "sqeezed",
+]
+qty = ["half", "handful", "whole", "bulk", "bunch", "chunk", "few", "tidbit", "piece"]
+size = ["lg", "large", "sm", "small", "md", "med", "medium", "jumbo"]
+unit = ["cups", "cup", "lb", "stalks"]
+
+[block_phrase]
+pharse = [
+  "pinch of",
+  "to taste",
+  "any shape",
+  "as needed",
+  "room temperature"
+]
